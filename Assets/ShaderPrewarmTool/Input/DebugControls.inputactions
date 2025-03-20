@@ -1,0 +1,54 @@
+{
+    "name": "DebugControls",
+    "maps": [
+        {
+            "name": "Basic",
+            "id": "454629ee-ff2e-488f-8416-4ed8b66df54b",
+            "actions": [
+                {
+                    "name": "Sim Oculus Button A",
+                    "type": "Button",
+                    "id": "f467b8d8-43cc-4f9e-8d3f-8dda0ebdc578",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Sim Oculus Button B",
+                    "type": "Button",
+                    "id": "4e7f390a-8f35-4f69-96be-fcac3c32824d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9c8e2f56-d3da-4dfc-aa22-42e98ea58a05",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Sim Oculus Button A",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "82429253-fdb0-411f-9c1a-8aee973c83b7",
+                    "path": "<Keyboard>/b",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Sim Oculus Button B",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

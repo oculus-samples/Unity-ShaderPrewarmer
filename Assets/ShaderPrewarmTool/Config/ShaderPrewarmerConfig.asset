@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a08018d2fae2f374c92a3fd81b93f56f, type: 3}
+  m_Name: ShaderPrewarmerConfig
+  m_EditorClassIdentifier: 
+  prewarmPrefabs: []
+  prewarmMaterials: []
+  prewarmShaders: []
+  prewarmShaderKeywords: []
+  prewarmSeedMeshes: []
+  prewarmSeedMeshRendererObjs: []
+  prewarmLights:
+  - {fileID: 3119004814154267026, guid: c6c53a6f113ab304aa347ac60a6dc379, type: 3}
+  - {fileID: 6108839794289928959, guid: d87f635eaed304b42b84179d40d48892, type: 3}
+  - {fileID: 2215811940356418627, guid: f1b2a888181e3c84dacd36a27b35767f, type: 3}
